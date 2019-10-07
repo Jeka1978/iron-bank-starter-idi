@@ -1,0 +1,4 @@
+
+org.springframework.boot.env.EnvironmentPostProcessor=com.idi.gameofthrones.ironbankstarter.ProfileAutoDetectorEnvironmentPostProcessor
+org.springframework.context.ApplicationContextInitializer = com.idi.gameofthrones.ironbankstarter.ProfileGuardApplicationContextInitializer
+org.springframework.boot.autoconfigure.EnableAutoConfiguration = com.idi.gameofthrones.ironbankstarter.IronBankStarterConfig
